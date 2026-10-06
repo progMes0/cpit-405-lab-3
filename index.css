@@ -1,0 +1,5 @@
+.image-preview img {
+  border-style: solid;
+  border-width: 30px;
+  border-color: skyblue lightpink lightgreen #ffefd5; 
+}
